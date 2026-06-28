@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3925-concatenate-array-with-reverse](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
