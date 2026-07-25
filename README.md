@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
