@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3536-maximum-product-of-two-digits](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-find-closest-person](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
