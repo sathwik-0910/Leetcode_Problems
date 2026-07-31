@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1528-shuffle-string) |
