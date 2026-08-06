@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2351-first-letter-to-appear-twice](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3945-digit-frequency-score](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3945-digit-frequency-score) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1528-shuffle-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3931-check-adjacent-digit-differences) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Divide and Conquer
 |  |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
