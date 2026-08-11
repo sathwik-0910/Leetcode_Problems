@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1528-shuffle-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1748-sum-of-unique-elements](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1748-sum-of-unique-elements](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Divide and Conquer
