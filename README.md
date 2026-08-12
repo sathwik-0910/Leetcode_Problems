@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1051-height-checker](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3536-maximum-product-of-two-digits](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1051-height-checker) |
 ## Queue
 |  |
 | ------- |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
