@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
+| [3856-trim-trailing-vowels](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Combinatorics
 |  |
