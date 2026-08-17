@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0682-baseball-game) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0844-backspace-string-compare](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1051-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
