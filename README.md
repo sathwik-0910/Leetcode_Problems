@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1408-string-matching-in-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1408-string-matching-in-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1528-shuffle-string) |
 | [1556-thousand-separator](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1556-thousand-separator) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1796-second-largest-digit-in-a-string) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
