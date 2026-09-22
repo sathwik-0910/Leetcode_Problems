@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0682-baseball-game) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
