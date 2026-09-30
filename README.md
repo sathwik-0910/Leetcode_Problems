@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3492-maximum-containers-on-a-ship](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
