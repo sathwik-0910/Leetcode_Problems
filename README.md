@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3452-sum-of-good-numbers](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3452-sum-of-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3838-weighted-word-mapping](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3842-toggle-light-bulbs) |
