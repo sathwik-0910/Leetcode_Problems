@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3842-toggle-light-bulbs](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3842-toggle-light-bulbs) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2396-strictly-palindromic-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2651-calculate-delayed-arrival-time](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2769-find-the-maximum-achievable-number) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Divide and Conquer
