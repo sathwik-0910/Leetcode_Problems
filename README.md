@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2651-calculate-delayed-arrival-time) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sathwik-0910/Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
